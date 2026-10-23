@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+public/lordicon/
+android/
+ios/
+package-lock.json
+expo-env.d.ts
+assets/icons/
+LICENSE.md
